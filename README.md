@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Automated Medical Billing Software at Verus.
+- 🌱 I’m currently learning Bash, Computer Science, and AI.
+- 👯 I’m looking to collaborate on anything innovation or automation related!
+- ⚡ Fun fact: I play bass and drums, ask me anything about math rock!
 <!--
 **aclarke500/aclarke500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
