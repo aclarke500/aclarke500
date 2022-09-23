@@ -14,9 +14,7 @@
 
 # Adam Clarke
 
-<p align="center">
-  <img src="banner.png" >
-</p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Adam </h1>
 
