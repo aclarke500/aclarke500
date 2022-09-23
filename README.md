@@ -8,7 +8,7 @@
 
 
 
-[![author](https://img.shields.io/badge/author-vinny380-red.svg)](https://www.linkedin.com/in/vin%C3%ADcius-porfirio-purgato-7891401b3/) [![](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vinny380)
+[![author](https://img.shields.io/badge/author-vinny380-red.svg)](https://www.linkedin.com/in/adam-clarke-a5b83b207/) [![](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/aclarke500)
 
 
 
@@ -20,13 +20,13 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Vinícius </h1>
 
-<p align="center" width="150px"> I'm a Computer Science student (specialization in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/specializations/cognitive-science.php">Cognitive Science</a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I love to bring value to the data science community by writing articles and tutorials on Medium and LinkedIn. Future plans include starting a YouTube channel.</p>
+<p align="center" width="150px"> I'm a Computer Science student (specialization in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/specializations/software-design.php">Software Design</a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I'm super passionate about Machine Learning, Innovation, and Software Development. Future plans include create Computer Science related content on social media, as well as more development projects!</p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bvinny380%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinny380&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=vinny380&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=vinny380&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Baclarke500%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclarke500&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=aclarke500&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=aclarke500&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -56,9 +56,8 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://vinny-purgato.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vinicius-porfirio-purgato/"><img src="https://img.shields.io/badge/-Vinicius%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vinny.purgato@gmail.com"><img src="https://img.shields.io/badge/-vinny.purgato@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adam-clarke-a5b83b207/"><img src="https://img.shields.io/badge/-Vinicius%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aclarke500@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-aclarke500@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br></p>
