@@ -18,7 +18,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Adam </h1>
 
-<p align="center" width="150px"> I'm a Computer Science student (specialization in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/specializations/software-design.php">Software Design</a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I'm super passionate about Machine Learning, Innovation, and Software Development. Future plans include createing Computer Science related content on social media, as well as more development projects!</p>
+<p align="center" width="150px"> I'm a Computer Science student (specialization in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/specializations/software-design.php">Software Design</a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I'm super passionate about Machine Learning, Innovation, and Software Development. Future plans include creating Computer Science related content on social media, as well as more development projects!</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Baclarke500%7D/count.svg" alt="visitor badge"/></p>
