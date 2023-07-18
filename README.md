@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on an Automated Medical Billing Software at Verus AMB.
-- 🌱 I’m currently learning C, Computer Science, and AI.
+- 🔭 I’m currently working on an Automated Medical Billing Software at Verus AMB and Court Forms at Top Court Forms.
+- 🌱 I’m currently learning Data Science, Computer Science, and AI.
 - 👯 I’m looking to collaborate on a programmable math rock metronome.
 - ⚡ Fun fact: I play bass and drums, ask me anything about music!
 
