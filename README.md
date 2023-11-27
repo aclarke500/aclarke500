@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on an Automated Medical Billing Software at Verus AMB and Data Science Lessons at the Queen's Data Science Association
-- 🌱 I’m currently learning Data Science, Computer Science, and AI.
+- 🌱 I’m currently studying NLP, non-linear methods for data analytics, and software engineering.
 - 👯 I’m looking to collaborate on a programmable math rock metronome.
 - ⚡ Fun fact: I play bass and drums, ask me anything about music!
 
