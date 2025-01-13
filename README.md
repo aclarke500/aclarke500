@@ -8,17 +8,10 @@
 
 
 
-[![author](https://img.shields.io/badge/author-aclarke500-red.svg)](https://www.linkedin.com/in/adam-clarke-a5b83b207/) [![](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/aclarke500)
-
-
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Adam </h1>
 
 <p align="center" width="150px"> I'm a Computer Science student (specialization in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/specializations/software-design.php">Artificial Intelligence</a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I'm super passionate about all things ML, AI, innovation, and software development. Future plans include creating Computer Science related content on social media, as well as more development projects!</p>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Baclarke500%7D/count.svg" alt="visitor badge"/></p>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclarke500&layout=compact&hide=TSQL&theme=chartreuse-dark"></p> THE BROKEN THAANG
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=aclarke500&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>  -->
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=aclarke500&theme=chartreuse-dark"></p>
@@ -45,10 +38,6 @@
 <a href="mailto:aclarke500@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-aclarke500@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br></p>
-
----
-Credit: [KevinPatel04](https://github.com/KevinPatel04)
 
 <!--
 **aclarke500/aclarke500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
