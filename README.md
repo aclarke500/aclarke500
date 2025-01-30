@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Adam </h1>
 
-<p align="center" width="150px"> I'm a Computer Science student (specialization in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/specializations/software-design.php">Artificial Intelligence</a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I'm super passionate about all things ML, AI, innovation, and software development. Future plans include creating Computer Science related content on social media, as well as more development projects!</p>
+<p align="center" width="150px"> I'm a Computer Science student (specialization in <b><a href="[https://www.cs.queensu.ca/undergraduate/programs/specializations/software-design.php](https://www.cs.queensu.ca/undergraduate/programs/options/artificial-intelligence.php)">Artificial Intelligence</a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I'm super passionate about all things ML, AI, innovation, and software development. Future plans include creating Computer Science related content on social media, as well as more development projects!</p>
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclarke500&layout=compact&hide=TSQL&theme=chartreuse-dark"></p> THE BROKEN THAANG
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=aclarke500&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>  -->
