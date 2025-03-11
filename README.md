@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on the 'Duolingo for Research Papers' at Fieldify!
+- 🔭 I’m currently working on the 'Duolingo for Research Papers' at Fieldify and an AI Powered Risk Management platform at Baskit!
 - 🌱 I’m currently studying NLP, non-linear methods for data analytics, and software engineering.
 - 👯 I’m looking to collaborate on startup ideas in the AI, healthcare, or legal space.
 - ⚡ Fun fact: I play bass and drums, ask me anything about music!
