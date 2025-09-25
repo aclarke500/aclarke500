@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on the 'Duolingo for Research Papers' at Fieldify and an AI Powered Risk Management platform at Baskit!
-- 🌱 I’m currently studying NLP, non-linear methods for data analytics, and software engineering.
+- 🔭 I’m currently working on making medical information more accessible to healthcare workers at ALIRA
+- 🌱 I’m currently tinkering with Raspberry Pi's, computer vision and trying to get into robotics.
 - 👯 I’m looking to collaborate on startup ideas in the AI, healthcare, or legal space.
 - ⚡ Fun fact: I play bass and drums, ask me anything about music!
 
@@ -10,11 +10,12 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Adam </h1>
 
-<p align="center" width="150px"> I'm a Computer Science student (specialization in <b> <a href="[https://www.cs.queensu.ca/undergraduate/programs/options/artificial-intelligence.php]">Artificial Intelligence</a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I'm super passionate about all things ML, AI, innovation, and software development. Future plans include creating Computer Science related content on social media, as well as more development projects!</p>
+<p align="center" width="150px"> I'm a versatile software engineer with a degree in Computer Science from  <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br>
+  I'm super passionate about all things ML, AI, innovation, and software development. Future plans include creating CS and career related content on social media, as well as more development projects!</p>
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclarke500&layout=compact&hide=TSQL&theme=chartreuse-dark"></p> THE BROKEN THAANG
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=aclarke500&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>  -->
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=aclarke500&theme=chartreuse-dark"></p>
+<!-- <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=aclarke500&theme=chartreuse-dark"></p> -->
 
 ### 🛠 &nbsp;Tech Stack
 
